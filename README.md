@@ -61,8 +61,8 @@ Uma aplicação completa e funcional construída com **Python (Flask)** no backe
 
 ### 1. Clone o projeto
 ```bash
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/douglascarlosmen/ia-analisador-de-curriculos.git
+cd ia-analisador-de-curriculos
 ```
 
 ### 2. Instale as dependências
@@ -143,7 +143,7 @@ curl -X POST http://localhost:5000/api/analyze-resume \
 ## ✨ Autor
 
 Douglas Carlos Men —  
-[🔗 GitHub](https://github.com/douglascarlosmen) • [🌐 LinkedIn](https://www.linkedin.com/in/douglascarlosmen/)  
+[🔗 GitHub](https://github.com/douglascarlosmen) • [🌐 LinkedIn](https://www.linkedin.com/in/douglas-carlos-men-331232b4/)  
 👨‍💻 +10 anos de experiência em desenvolvimento de software  
 🎓 Especialista em Inteligência Artificial aplicada a negócios
 
