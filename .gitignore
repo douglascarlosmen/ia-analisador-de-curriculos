@@ -1,2 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
 .env
-/uploads
+
+# Uploads
+uploads/
+
+# Sistema
+.DS_Store
